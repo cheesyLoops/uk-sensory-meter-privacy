@@ -1,0 +1,26 @@
+# Privacy Policy for UK Sensory Meter
+
+**Effective Date:** 13 November 2026  
+**Developer:** cheezyLoopz  
+**Contact Email:** [cheezyloopz.code@outlook.com]  
+
+## 1. Overview
+UK Sensory Meter ("the App") is a community utility application designed to help users view and share sensory accessibility ratings for public places across the United Kingdom. Your privacy is important to us, and we collect the minimum amount of data necessary for the App to function.
+
+## 2. Data We Collect and How It Is Used
+* **Local Device Storage:** Sensory ratings and preferences you save locally are stored on your device using an internal SQLite database.
+* **Community Ratings & Notes (User-Generated Content):** When you choose to submit a sensory rating, venue/area name, or optional descriptive note to the community feed, that submission is transmitted to and stored on our cloud database provider (**Supabase**) so other users can view helpful sensory information.
+* **No Personal Account Data:** The App does not require you to create an account and does not collect your name, email address, phone number, or live background GPS location.
+* **External Links (Ko-fi):** The App includes an optional external link to Ko-fi for voluntary tips/donations. If you tap this link, you will leave the App and be subject to Ko-fi's own Privacy Policy.
+
+## 3. Data Security
+All data transmitted between the App and Supabase is encrypted in transit using industry-standard HTTPS/TLS encryption.
+
+## 4. Data Retention and Deletion
+Community sensory ratings and notes are retained to keep venue information available to users. If you would like a note or rating you submitted removed, or have any privacy questions, please contact us at **[YOUR-NEW-SUPPORT-EMAIL]** with the venue name and approximate submission date, and we will delete it promptly.
+
+## 5. Children's Privacy
+UK Sensory Meter is rated 12+ and is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+## 6. Changes to This Policy
+We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated effective date.
